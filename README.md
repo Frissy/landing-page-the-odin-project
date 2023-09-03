@@ -1,1 +1,1 @@
-# landing-page-the-odin-project
+This will be the reproduction of a design for a landing page. It is a project from The Odin Project courses.
