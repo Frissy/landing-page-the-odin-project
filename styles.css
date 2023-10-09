@@ -82,7 +82,10 @@ header li {
     height: 40px;
 }
 
-.img {
+/* Todo : crop the image so it fits in a landscape shape*/
+img {
     width: 48%;
-    background-color: red;
+    height: 100%;
+    overflow: hidden;
+
 }
